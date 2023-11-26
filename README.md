@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Bachelors in Computer Science**
 
-- 🌱 I’m currently learning **C++, MIPS, and HTML5**
+- 🌱 I’m currently learning **C++, JavaScript, and HTML5**
 
 - ⚡ Fun fact **I like to play video games and build computers**
 
