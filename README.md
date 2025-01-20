@@ -1,5 +1,5 @@
 **Aaron1798/Aaron1798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![MasterHead](https://images.cdn2.stockunlimited.net/preview1300/computer-web-banner-design_1943892.jpg)](https://Aaron1798.io)
+[![MasterHead](https://sourcebae.com/blog/wp-content/uploads/2023/08/1_HLGtY6O2vUHqIyEbWdmBgA.jpg)
 <h1 align="center">Hi 👋, I'm Aaron Simeone</h1>
 <h3 align="center">I am a student attending Kent State pursuing a bachelors in computer science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
